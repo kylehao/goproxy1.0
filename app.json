@@ -1,0 +1,7 @@
+{
+  "name": "goproxy1.0",
+  "description": "Deploy goproxy1.0 to heroku",
+  "website": "https://github.com/kylehao/goproxy1.0",
+  "repository": "https://github.com/kylehao/goproxy1.0",
+  "success_url": "/"
+}
